@@ -1,6 +1,6 @@
 # Gamester
 
-#OBJECTIVE: </br>
+# OBJECTIVE: </br>
 The objective is to build web service which can compare prices and show reviews of video games from various e-commerce web portals and give them a best price.
 
 # DESCRIPTION: </br>
